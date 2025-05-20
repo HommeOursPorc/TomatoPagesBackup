@@ -25,3 +25,7 @@ mount --bind /tmp/tomato.js /www/tomato.js
 ```
 
 Installation is temporary and won't survive a reboot. You can make it permanent with JFFS or USB storage and some scripts.
+
+# Uninstall
+To remove this you can either reboot the router or use this command:
+`umount /www/tomato.js`
