@@ -1,3 +1,4 @@
+// AI Generated code. This is what was added to tomato.js
 (function(){
 	function asp() {
 		var m = location.pathname.match(/\/([^\/?#]+\.asp)\b/i);
